@@ -1,4 +1,4 @@
-#This is a basic menu-driven console application written in C++ that simulates interaction with a cryptocurrency trading platform.
+# This is a basic menu-driven console application written in C++ that simulates interaction with a cryptocurrency trading platform.
 
 What it does:
 Displays a menu with 6 options.
